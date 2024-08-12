@@ -1,4 +1,4 @@
-click to view site: https://durgaprasad09102003.github.io/home
+click to view site: https://durgaprasad09102003.github.io/E-commerce
 
 # Getting Started with Create React App
 
