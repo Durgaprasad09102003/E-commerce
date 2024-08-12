@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path='durgaprasad09102003.github.io/E-commerce/' element={<Navigate to='/home' />} />
-          <Route path='/home' element= {<HeaderMenu />} />
+          <Route path='durgaprasad09102003.github.io/E-commerce/' element={<Navigate to='durgaprasad09102003.github.io/E-commerce/home/' />} />
+          <Route path='durgaprasad09102003.github.io/E-commerce/home/' element= {<HeaderMenu />} />
         </Routes>
       </BrowserRouter>
     </div>
