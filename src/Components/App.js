@@ -1,17 +1,15 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter, Routes, Route, Navigate} from 'react-router-dom';
 import HeaderMenu from './HeaderMenu';
+import Ad1 from './Ad1';
+import Content1 from './Content1';
 
 function App() {
   return (
-    <div className="App">
-      <BrowserRouter>
-        <Routes>
-          <Route path='/' element={<Navigate to='/home' />} />
-          <Route path='/home' element= {<HeaderMenu />} />
-        </Routes>
-      </BrowserRouter>
+    <div className='App'>   
+      <HeaderMenu className='component'/>
+      <Ad1 className='component'/>
+      <Content1 className='component'/>
     </div>
   );
 }
