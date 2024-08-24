@@ -192,7 +192,7 @@
     width:100vw;
     height: fit-content;
     background-color: rgb(0, 0, 0);
-    margin-bottom: 8px;
+    margin-bottom: 5px;
 }
 
 .main_ads #ads, #adsImage{
@@ -250,7 +250,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     position: relative;
     overflow: hidden;
 }
@@ -262,7 +262,6 @@
     z-index: 0;
     position:absolute;
     bottom: 0;
-    mix-blend-mode: ;
 }
 
 .adbtns{
@@ -295,13 +294,14 @@
 }
 
 #button2{
-    background-color: rgb(0, 0, 0);
+    background-color: transparent;
     color: #548dff;
     z-index:0;
+    padding-right: 20px;
 }
 
 #button2:hover{
-    background-color: #548dff;
+    background-color: #326fe8;
     color: #ffffff;
 }
 
