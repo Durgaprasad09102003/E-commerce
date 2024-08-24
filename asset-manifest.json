@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/E-commerce/static/css/main.744eeb3e.css",
-    "main.js": "/E-commerce/static/js/main.365c89ae.js",
+    "main.css": "/E-commerce/static/css/main.f8018ea4.css",
+    "main.js": "/E-commerce/static/js/main.ec3278c1.js",
     "static/js/453.2086d7aa.chunk.js": "/E-commerce/static/js/453.2086d7aa.chunk.js",
     "static/media/Ad12.mp4": "/E-commerce/static/media/Ad12.5d69369612c5db4b6475.mp4",
     "static/media/adsp1.jpg": "/E-commerce/static/media/adsp1.17045532e80cdbd35912.jpg",
+    "static/media/apple watch 2.png": "/E-commerce/static/media/apple watch 2.6b1e351c6d64ac5c998c.png",
+    "static/media/apple vision.png": "/E-commerce/static/media/apple vision.617b94d1ee724904310e.png",
+    "static/media/mac book m2.png": "/E-commerce/static/media/mac book m2.ca9ee38e1f8f27704aba.png",
+    "static/media/devara.jpg": "/E-commerce/static/media/devara.9d59c1f21874172dec4d.jpg",
+    "static/media/OG.jpg": "/E-commerce/static/media/OG.970a885d7594b5745675.jpg",
+    "static/media/Apple-Card.png": "/E-commerce/static/media/Apple-Card.992c4c5e62dcd2f36594.png",
+    "static/media/Spirit.jpg": "/E-commerce/static/media/Spirit.34d068b15d199289c173.jpg",
     "static/media/dpicon1.png": "/E-commerce/static/media/dpicon1.1234a7d91519898c10a4.png",
+    "static/media/phone-tab-mac 2.png": "/E-commerce/static/media/phone-tab-mac 2.d14682fcb3ce57d77e72.png",
+    "static/media/apple ear pods.png": "/E-commerce/static/media/apple ear pods.ef210d857fc1ebf09c9d.png",
     "static/media/bag1.png": "/E-commerce/static/media/bag1.30780360f2154448eb8a.png",
     "static/media/iphone1.jpg": "/E-commerce/static/media/iphone1.bd504ea23d24c3ebb77c.jpg",
     "index.html": "/E-commerce/index.html",
-    "main.744eeb3e.css.map": "/E-commerce/static/css/main.744eeb3e.css.map",
-    "main.365c89ae.js.map": "/E-commerce/static/js/main.365c89ae.js.map",
+    "main.f8018ea4.css.map": "/E-commerce/static/css/main.f8018ea4.css.map",
+    "main.ec3278c1.js.map": "/E-commerce/static/js/main.ec3278c1.js.map",
     "453.2086d7aa.chunk.js.map": "/E-commerce/static/js/453.2086d7aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.744eeb3e.css",
-    "static/js/main.365c89ae.js"
+    "static/css/main.f8018ea4.css",
+    "static/js/main.ec3278c1.js"
   ]
 }
